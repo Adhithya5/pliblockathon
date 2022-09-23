@@ -19,4 +19,4 @@ requirements :
     => js
     => Css
 
-    =>sol ^0.8.17
+    => sol 0.8.17
